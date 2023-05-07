@@ -7,3 +7,4 @@
 * [code hope-mua](https://github.com/xxai-art/web)
 * [Nā pūʻolo ʻōlelo no ka pūnaewele holoʻokoʻa](https://github.com/xxai-art/web/tree/main/i18n)
 * [Nā pūʻolo ʻōlelo no nā modula e komo](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Paena Pūnaewele ʻŌlelo Nui](https://github.com/xxai-doc)
