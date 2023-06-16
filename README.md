@@ -17,14 +17,14 @@
 
 E kūkulu ma luna o nā papahana 3 aʻe
 
-### [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
+* [@w5/mdt](https://www.npmjs.com/package/@w5/mdt)
 
-Hiki ke kuhikuhi i nā faila waho me ka syntax like me `<+ ./coffee_plus/import.js>` `.mdt`
+  ʻO ka suffix ʻo `.mdt` , hiki iā ʻoe ke hoʻohana i ka syntax e like me `<+ ./coffee_plus/import.js>` e kuhikuhi i nā faila waho, a hoʻohua i ka markdown me ka suffix `.md` .
 
-[@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
+* [@w5/trmd](https://www.npmjs.com/package/@w5/trmd)
 
-ʻAʻole unuhi ʻo Markdown i nā code a me nā loulou, a e hūnā i nā huaʻōlelo unuhi. Inā hoʻololi ʻia ka unuhi akā ʻaʻole i hoʻololi ʻia ka kikokikona kumu, ʻaʻole e hoʻololi hou ʻia ka unuhi ʻana.
+  ʻAʻole unuhi ʻo Markdown i nā code a me nā loulou, a e hūnā i nā huaʻōlelo unuhi. Inā hoʻololi ʻia ka unuhi akā ʻaʻole i hoʻololi ʻia ka kikokikona kumu, ʻaʻole e hoʻololi hou ʻia ka unuhi ʻana.
 
-[@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
+* [@w5/i18n](https://www.npmjs.com/package/@w5/i18n)
 
-Nā waihona ʻōlelo no ka unuhi ʻana i nā pūnaewele i haku ʻia `yaml` .
+  Nā waihona ʻōlelo no ka unuhi ʻana i nā pūnaewele i haku ʻia `yaml` .
