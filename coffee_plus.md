@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , hoʻohui i kekahi mau hiʻohiʻona ma ke kumu o ka syntax coffeescript, e ʻike i [ka coffee_plus](./coffee_plus.md) .
 
-* hai hoololi
+## hai hoololi
 
 ```
 + var1, var2
 ```
 
-* lepili hoʻolaha
+## lepili hoʻolaha
 
 `:$` no ka hoohana me ka [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) .
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* lawe wikiwiki
+## lawe wikiwiki
 
 ```
 > zx/globals:
